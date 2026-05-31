@@ -758,21 +758,21 @@ body{
 }
 
 .projects-grid .project-card:nth-child(1) .card-front {
-  background-image: url("/image/animation\ 2.gif");
+  background-image: url("image/animation\ 2.gif");
   background-size: cover;
   background-position: center;
 
 }
 
 .projects-grid .project-card:nth-child(2) .card-front {
-  background-image: url("/image/flappybirdbg1.gif");
+  background-image: url("image/flappybirdbg1.gif");
   background-size: cover;
   background-position: center;
 
 }
 
 .projects-grid .project-card:nth-child(3) .card-front {
-  background-image: url("/image/AFFICHEDDDD.png");
+  background-image: url("image/AFFICHEDDDD.png");
   background-size: cover;
   background-position: center;
 
