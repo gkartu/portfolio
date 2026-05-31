@@ -653,18 +653,18 @@ const homeSection = document.querySelector("#home");
 
 const heroFrames = {
 
-  center: "/image/haut.png",
+  center: "image/haut.png",
 
-  top: "/image/haut.png",
-  topRight: "/image/haut droite.png",
-  right: "/image/droite.png",
-  bottomRight: "/image/bas droite.png",
-  bottom: "/image/bas.png",
-  bottomLeft: "/image/bas gauche.png",
-  left: "/image/gauche.png",
-  topLeft: "/image/haut gauche.png",
+  top: "image/haut.png",
+  topRight: "image/haut droite.png",
+  right: "image/droite.png",
+  bottomRight: "image/bas droite.png",
+  bottom: "image/bas.png",
+  bottomLeft: "image/bas gauche.png",
+  left: "image/gauche.png",
+  topLeft: "image/haut gauche.png",
 
-  gif: "/image/blop.gif"
+  gif: "image/blop.gif"
 };
 
 /* image par défaut */
